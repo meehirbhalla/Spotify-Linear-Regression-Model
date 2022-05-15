@@ -1,2 +1,3 @@
 # INST414-Semester-Project
-Data collection via Spotify API and linear regression model/predictions via sci-kit learn.
+**Spotify API data collection.ipynb** - Data collection via Spotify API. </br>
+**Spotify API LR model.ipynb** - Linear regression model/predictions via sci-kit learn.
